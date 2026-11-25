@@ -1,0 +1,41 @@
+{
+  "experiment": "exp3_rational_convergents",
+  "rows": [
+    {
+      "beta_exact": "0",
+      "alpha_exact": "3",
+      "alpha_float": 3.0,
+      "gap_to_sqrt3_plus_1": 0.267949192
+    },
+    {
+      "beta_exact": "1/3",
+      "alpha_exact": "11/4",
+      "alpha_float": 2.75,
+      "gap_to_sqrt3_plus_1": 0.017949192
+    },
+    {
+      "beta_exact": "4/11",
+      "alpha_exact": "41/15",
+      "alpha_float": 2.73333333,
+      "gap_to_sqrt3_plus_1": 0.001282526
+    },
+    {
+      "beta_exact": "15/41",
+      "alpha_exact": "153/56",
+      "alpha_float": 2.73214286,
+      "gap_to_sqrt3_plus_1": 9.205e-05
+    },
+    {
+      "beta_exact": "56/153",
+      "alpha_exact": "571/209",
+      "alpha_float": 2.73205742,
+      "gap_to_sqrt3_plus_1": 6.609e-06
+    },
+    {
+      "beta_exact": "209/571",
+      "alpha_exact": "2131/780",
+      "alpha_float": 2.73205128,
+      "gap_to_sqrt3_plus_1": 4.74e-07
+    }
+  ]
+}

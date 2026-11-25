@@ -1,0 +1,45 @@
+{
+  "schema": "PRIMAL-DUAL-2ECSS-CERT-1.0",
+  "mode": "thm12_minimal_augmentation_exact",
+  "name": "mode2_star_plus_iso7",
+  "n_vertices": 7,
+  "forest_edges": [
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      4,
+      5
+    ]
+  ],
+  "augmentation_edges": [
+    [
+      1,
+      4
+    ],
+    [
+      2,
+      5
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      6,
+      4
+    ]
+  ],
+  "beta": "4/11",
+  "claimed_lhs": "112/11",
+  "claimed_rhs": "194/11"
+}

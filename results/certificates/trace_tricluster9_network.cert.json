@@ -1,0 +1,112 @@
+{
+  "schema": "PRIMAL-DUAL-2ECSS-CERT-1.0",
+  "mode": "primal_dual_trace_telescoping_exact",
+  "name": "mode4_trace_tricluster9_network",
+  "n_vertices": 9,
+  "beta": "56/153",
+  "alpha": "571/209",
+  "steps": [
+    {
+      "num_nodes": 9,
+      "kappa": 9,
+      "L": 0,
+      "I": 9,
+      "C": 0,
+      "delta": "1/2",
+      "pay_step": "10",
+      "earn_step": "9"
+    },
+    {
+      "num_nodes": 9,
+      "kappa": 8,
+      "L": 2,
+      "I": 7,
+      "C": 1,
+      "delta": "0",
+      "pay_step": "0",
+      "earn_step": "0"
+    },
+    {
+      "num_nodes": 9,
+      "kappa": 7,
+      "L": 2,
+      "I": 6,
+      "C": 1,
+      "delta": "0",
+      "pay_step": "0",
+      "earn_step": "0"
+    },
+    {
+      "num_nodes": 9,
+      "kappa": 6,
+      "L": 4,
+      "I": 4,
+      "C": 2,
+      "delta": "0",
+      "pay_step": "0",
+      "earn_step": "0"
+    },
+    {
+      "num_nodes": 9,
+      "kappa": 5,
+      "L": 4,
+      "I": 3,
+      "C": 2,
+      "delta": "0",
+      "pay_step": "0",
+      "earn_step": "0"
+    },
+    {
+      "num_nodes": 9,
+      "kappa": 4,
+      "L": 6,
+      "I": 1,
+      "C": 3,
+      "delta": "0",
+      "pay_step": "0",
+      "earn_step": "0"
+    },
+    {
+      "num_nodes": 9,
+      "kappa": 3,
+      "L": 6,
+      "I": 0,
+      "C": 3,
+      "delta": "459/418",
+      "pay_step": "12",
+      "earn_step": "9"
+    },
+    {
+      "num_nodes": 9,
+      "kappa": 2,
+      "L": 4,
+      "I": 0,
+      "C": 2,
+      "delta": "0",
+      "pay_step": "0",
+      "earn_step": "0"
+    },
+    {
+      "num_nodes": 4,
+      "kappa": 2,
+      "L": 2,
+      "I": 1,
+      "C": 1,
+      "delta": "0",
+      "pay_step": "0",
+      "earn_step": "0"
+    },
+    {
+      "num_nodes": 4,
+      "kappa": 1,
+      "L": 2,
+      "I": 0,
+      "C": 1,
+      "delta": "0",
+      "pay_step": "0",
+      "earn_step": "0"
+    }
+  ],
+  "claimed_total_pay": "22",
+  "claimed_total_earn": "18"
+}

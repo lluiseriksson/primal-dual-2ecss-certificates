@@ -1,0 +1,53 @@
+{
+  "experiment": "exp4_empirical_primal_dual",
+  "rows": [
+    {
+      "graph": "prism6_weighted",
+      "n_vertices": 6,
+      "primal_b0": "18",
+      "dual_b0": "18",
+      "ratio_b0": 1.0,
+      "primal_opt": "18",
+      "dual_opt": "18",
+      "ratio_opt": 1.0,
+      "iters_opt": 8,
+      "max_iters_2n_2": 10
+    },
+    {
+      "graph": "wheel7_parallel",
+      "n_vertices": 7,
+      "primal_b0": "25",
+      "dual_b0": "25",
+      "ratio_b0": 1.0,
+      "primal_opt": "25",
+      "dual_opt": "25",
+      "ratio_opt": 1.0,
+      "iters_opt": 7,
+      "max_iters_2n_2": 12
+    },
+    {
+      "graph": "barbell8_clusters",
+      "n_vertices": 8,
+      "primal_b0": "20",
+      "dual_b0": "20",
+      "ratio_b0": 1.0,
+      "primal_opt": "20",
+      "dual_opt": "20",
+      "ratio_opt": 1.0,
+      "iters_opt": 10,
+      "max_iters_2n_2": 14
+    },
+    {
+      "graph": "tricluster9_network",
+      "n_vertices": 9,
+      "primal_b0": "22",
+      "dual_b0": "18",
+      "ratio_b0": 1.22222,
+      "primal_opt": "22",
+      "dual_opt": "18",
+      "ratio_opt": 1.22222,
+      "iters_opt": 10,
+      "max_iters_2n_2": 16
+    }
+  ]
+}

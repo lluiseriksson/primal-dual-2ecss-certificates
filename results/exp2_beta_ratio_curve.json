@@ -1,0 +1,152 @@
+{
+  "experiment": "exp2_beta_ratio_curve",
+  "rows": [
+    {
+      "beta_exact": "0",
+      "beta": 0.0,
+      "branch1": 2.0,
+      "branch2": 3.0,
+      "alpha": 3.0
+    },
+    {
+      "beta_exact": "1/40",
+      "beta": 0.025,
+      "branch1": 2.05,
+      "branch2": 2.97561,
+      "alpha": 2.97561
+    },
+    {
+      "beta_exact": "1/20",
+      "beta": 0.05,
+      "branch1": 2.1,
+      "branch2": 2.952381,
+      "alpha": 2.952381
+    },
+    {
+      "beta_exact": "3/40",
+      "beta": 0.075,
+      "branch1": 2.15,
+      "branch2": 2.930233,
+      "alpha": 2.930233
+    },
+    {
+      "beta_exact": "1/10",
+      "beta": 0.1,
+      "branch1": 2.2,
+      "branch2": 2.909091,
+      "alpha": 2.909091
+    },
+    {
+      "beta_exact": "1/8",
+      "beta": 0.125,
+      "branch1": 2.25,
+      "branch2": 2.888889,
+      "alpha": 2.888889
+    },
+    {
+      "beta_exact": "3/20",
+      "beta": 0.15,
+      "branch1": 2.3,
+      "branch2": 2.869565,
+      "alpha": 2.869565
+    },
+    {
+      "beta_exact": "7/40",
+      "beta": 0.175,
+      "branch1": 2.35,
+      "branch2": 2.851064,
+      "alpha": 2.851064
+    },
+    {
+      "beta_exact": "1/5",
+      "beta": 0.2,
+      "branch1": 2.4,
+      "branch2": 2.833333,
+      "alpha": 2.833333
+    },
+    {
+      "beta_exact": "9/40",
+      "beta": 0.225,
+      "branch1": 2.45,
+      "branch2": 2.816327,
+      "alpha": 2.816327
+    },
+    {
+      "beta_exact": "1/4",
+      "beta": 0.25,
+      "branch1": 2.5,
+      "branch2": 2.8,
+      "alpha": 2.8
+    },
+    {
+      "beta_exact": "11/40",
+      "beta": 0.275,
+      "branch1": 2.55,
+      "branch2": 2.784314,
+      "alpha": 2.784314
+    },
+    {
+      "beta_exact": "3/10",
+      "beta": 0.3,
+      "branch1": 2.6,
+      "branch2": 2.769231,
+      "alpha": 2.769231
+    },
+    {
+      "beta_exact": "13/40",
+      "beta": 0.325,
+      "branch1": 2.65,
+      "branch2": 2.754717,
+      "alpha": 2.754717
+    },
+    {
+      "beta_exact": "7/20",
+      "beta": 0.35,
+      "branch1": 2.7,
+      "branch2": 2.740741,
+      "alpha": 2.740741
+    },
+    {
+      "beta_exact": "3/8",
+      "beta": 0.375,
+      "branch1": 2.75,
+      "branch2": 2.727273,
+      "alpha": 2.75
+    },
+    {
+      "beta_exact": "2/5",
+      "beta": 0.4,
+      "branch1": 2.8,
+      "branch2": 2.714286,
+      "alpha": 2.8
+    },
+    {
+      "beta_exact": "17/40",
+      "beta": 0.425,
+      "branch1": 2.85,
+      "branch2": 2.701754,
+      "alpha": 2.85
+    },
+    {
+      "beta_exact": "9/20",
+      "beta": 0.45,
+      "branch1": 2.9,
+      "branch2": 2.689655,
+      "alpha": 2.9
+    },
+    {
+      "beta_exact": "19/40",
+      "beta": 0.475,
+      "branch1": 2.95,
+      "branch2": 2.677966,
+      "alpha": 2.95
+    },
+    {
+      "beta_exact": "1/2",
+      "beta": 0.5,
+      "branch1": 3.0,
+      "branch2": 2.666667,
+      "alpha": 3.0
+    }
+  ]
+}

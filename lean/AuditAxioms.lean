@@ -1,0 +1,20 @@
+import PrimalDual2ECSS
+
+#print axioms PrimalDual2ECSS.potential_start_value
+#print axioms PrimalDual2ECSS.potential_decrease_add_edge
+#print axioms PrimalDual2ECSS.potential_decrease_contract_cycle
+#print axioms PrimalDual2ECSS.iteration_bound_2n_minus_2
+#print axioms PrimalDual2ECSS.nontrivial_component_leaves_bound
+#print axioms PrimalDual2ECSS.thm12_cleared_rhs_identity
+#print axioms PrimalDual2ECSS.lemma34_disconnected_ratio_master
+#print axioms PrimalDual2ECSS.lemma34_connected_tree_ratio
+#print axioms PrimalDual2ECSS.optimal_beta_quadratic_root
+#print axioms PrimalDual2ECSS.optimal_alpha_sqrt3_plus_1
+#print axioms PrimalDual2ECSS.bcs20_beta_zero_ratio_3
+#print axioms PrimalDual2ECSS.endpoint_beta_half_ratio_3
+#print axioms PrimalDual2ECSS.strictly_better_than_3_interior
+#print axioms PrimalDual2ECSS.rational_convergent_11_4_bound
+#print axioms PrimalDual2ECSS.rational_convergent_153_56_bound
+#print axioms PrimalDual2ECSS.rational_convergent_571_209_bound
+#print axioms PrimalDual2ECSS.cut_lp_weak_duality_list
+#print axioms PrimalDual2ECSS.primal_dual_telescoping_list

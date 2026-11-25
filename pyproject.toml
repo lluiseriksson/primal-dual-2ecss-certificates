@@ -1,0 +1,11 @@
+[project]
+name = "primal-dual-2ecss-certificates"
+version = "1.0.0"
+description = "Machine-checked exact-rational primal-dual cut-covering and better-than-3 approximation certificates for 2ECSS"
+authors = [{ name = "Lluis Eriksson" }]
+license = { text = "MIT" }
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0", "matplotlib>=3.8", "numpy>=1.26"]

@@ -1,0 +1,92 @@
+{
+  "schema": "PRIMAL-DUAL-2ECSS-CERT-1.0",
+  "mode": "primal_dual_trace_telescoping_exact",
+  "name": "mode4_trace_prism6_weighted",
+  "n_vertices": 6,
+  "beta": "1/3",
+  "alpha": "11/4",
+  "steps": [
+    {
+      "num_nodes": 6,
+      "kappa": 6,
+      "L": 0,
+      "I": 6,
+      "C": 0,
+      "delta": "1",
+      "pay_step": "12",
+      "earn_step": "12"
+    },
+    {
+      "num_nodes": 6,
+      "kappa": 5,
+      "L": 2,
+      "I": 4,
+      "C": 1,
+      "delta": "0",
+      "pay_step": "0",
+      "earn_step": "0"
+    },
+    {
+      "num_nodes": 6,
+      "kappa": 4,
+      "L": 2,
+      "I": 3,
+      "C": 1,
+      "delta": "0",
+      "pay_step": "0",
+      "earn_step": "0"
+    },
+    {
+      "num_nodes": 6,
+      "kappa": 3,
+      "L": 4,
+      "I": 1,
+      "C": 2,
+      "delta": "0",
+      "pay_step": "0",
+      "earn_step": "0"
+    },
+    {
+      "num_nodes": 6,
+      "kappa": 2,
+      "L": 4,
+      "I": 0,
+      "C": 2,
+      "delta": "1/2",
+      "pay_step": "8/3",
+      "earn_step": "8/3"
+    },
+    {
+      "num_nodes": 4,
+      "kappa": 2,
+      "L": 2,
+      "I": 1,
+      "C": 1,
+      "delta": "0",
+      "pay_step": "0",
+      "earn_step": "0"
+    },
+    {
+      "num_nodes": 2,
+      "kappa": 2,
+      "L": 0,
+      "I": 2,
+      "C": 0,
+      "delta": "5/6",
+      "pay_step": "10/3",
+      "earn_step": "10/3"
+    },
+    {
+      "num_nodes": 2,
+      "kappa": 1,
+      "L": 2,
+      "I": 0,
+      "C": 1,
+      "delta": "0",
+      "pay_step": "0",
+      "earn_step": "0"
+    }
+  ],
+  "claimed_total_pay": "18",
+  "claimed_total_earn": "18"
+}

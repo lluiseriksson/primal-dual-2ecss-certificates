@@ -1,0 +1,10 @@
+{
+  "schema": "PRIMAL-DUAL-2ECSS-CERT-1.0",
+  "mode": "nonuniform_beta_ratio_optimality_exact",
+  "name": "mode3_beta_15_41",
+  "beta": "15/41",
+  "claimed_branch1": "112/41",
+  "claimed_branch2": "153/56",
+  "claimed_alpha": "153/56",
+  "claimed_alpha_minus_1_sq": "9409/3136"
+}

@@ -1,0 +1,49 @@
+{
+  "schema": "PRIMAL-DUAL-2ECSS-CERT-1.0",
+  "mode": "thm12_minimal_augmentation_exact",
+  "name": "mode2_three_comp8",
+  "n_vertices": 8,
+  "forest_edges": [
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ]
+  ],
+  "augmentation_edges": [
+    [
+      0,
+      2
+    ],
+    [
+      1,
+      4
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      0,
+      7
+    ],
+    [
+      7,
+      6
+    ]
+  ],
+  "beta": "15/41",
+  "claimed_lhs": "530/41",
+  "claimed_rhs": "918/41"
+}
